@@ -61,7 +61,7 @@
     "@babel/preset-env": "7.18.10",
     "@types/node": "16.18.11",
     "babel-loader": "8.2.5",
-    "chalk": "5.0.1",
+    "chalk": "5.2.0",
     "cross-var": "1.1.0",
     "eslint": "8.22.0",
     "eslint-config-prettier": "^8.5.0",
